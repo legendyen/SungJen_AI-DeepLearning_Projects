@@ -25,7 +25,8 @@ Showcaisng training data
 Shocasing model prediction label
 <img width="1064" alt="image" src="https://github.com/legendyen/SungJen_AI-DeepLearning_Projects/assets/20420765/9a2e9dda-9780-4e9b-b0ee-f270db1743fb">
 
-Shocasing evaluation metrix
+Shocasing evaluation metrix (from initial to final)
+
 <img width="482" alt="image" src="https://github.com/legendyen/SungJen_AI-DeepLearning_Projects/assets/20420765/386826be-712b-4ddb-a9ec-db04b1f4a7b5">
 
 
